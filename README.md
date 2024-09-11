@@ -1,4 +1,4 @@
-# Image Generative Models - Pytorch Implemenration from Scratch
+# Image Generative Models - Pytorch Implementation from Scratch
 
 - ## Diffusion Models
     - UNet
